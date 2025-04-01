@@ -26,11 +26,13 @@ The `main.py` file contains the basic solution to the challenge:
 
 ## Improved Version (Object-Oriented)
 
+```
 package_robot/
 ├── robot.py       # Uses the sort() function with the Package class internally
 ├── package.py     # Package class with input validation and classification logic
 ├── test.py        # Assert-based test cases for multiple scenarios
 └── README.md      # This file
+```
 
 ### Usage
 1. Run `python robot.py`.
